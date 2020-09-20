@@ -16,4 +16,8 @@ public class Branching {
 	/*
 	 * Local branch 'Branching_Attempt' created.
 	 */
+	
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
 }
