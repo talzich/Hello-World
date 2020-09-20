@@ -10,6 +10,10 @@ public class Branching {
 	
 	
 	/*
-	 * I will now make a change locally and create my branch on gitHub. 
+	 * I will now create my github branch using eclipse. 
+	 */
+	
+	/*
+	 * Local branch 'Branching_Attempt' created.
 	 */
 }
